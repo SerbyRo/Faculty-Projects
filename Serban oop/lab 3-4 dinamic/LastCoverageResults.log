@@ -1,0 +1,21 @@
+[2021-03-16 20:25:01] [info] Start Program:
+Path:"C:\\Users\\Serban Ionescu\\Desktop\\Serban oop\\lab3-4-dinamic\\x64\\Debug\\lab3-4-dinamic.exe"
+Arguments:
+Working directory: "C:\\Users\\Serban Ionescu\\Desktop\\Serban oop\\lab3-4-dinamic\\lab3-4-dinamic\\"
+Modules: Selected: C:\Users\Serban Ionescu\Desktop\Serban oop\lab3-4-dinamic\x64\Debug\lab3-4-dinamic.exe Excluded: 
+Sources: Selected: C:\Users\Serban Ionescu\Desktop\Serban oop\lab3-4-dinamic\lab3-4-dinamic Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Serban Ionescu\AppData\Local\Temp\hewbeex0.5ny 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-16 20:25:01] [info] Module: C:\Users\Serban Ionescu\Desktop\Serban oop\lab3-4-dinamic\x64\Debug\lab3-4-dinamic.exe is selected because it matches selected pattern: C:\Users\Serban Ionescu\Desktop\Serban oop\lab3-4-dinamic\x64\Debug\lab3-4-dinamic.exe
+[2021-03-16 20:25:02] [info] ----------------------------------------------------
+[2021-03-16 20:25:02] [info] Coverage binary generated in file: C:\Users\Serban Ionescu\AppData\Local\Temp\hewbeex0.5ny
+[2021-03-16 20:25:02] [info] ----------------------------------------------------
