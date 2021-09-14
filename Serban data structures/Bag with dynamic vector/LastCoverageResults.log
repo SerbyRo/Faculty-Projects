@@ -1,0 +1,22 @@
+[2021-03-27 19:48:16] [info] Start Program:
+Path:"C:\\Users\\Serban Ionescu\\Desktop\\Serban structuri de date si algoritmi\\Lab1pb7sda\\x64\\Debug\\Lab1pb7sda.exe"
+Arguments:
+Working directory: "C:\\Users\\Serban Ionescu\\Desktop\\Serban structuri de date si algoritmi\\Lab1pb7sda\\Lab1pb7sda\\"
+Modules: Selected: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab1pb7sda\x64\Debug\Lab1pb7sda.exe Excluded: 
+Sources: Selected: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab1pb7sda\Lab1pb7sda Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Serban Ionescu\AppData\Local\Temp\knyrwqoy.vjs 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-27 19:48:16] [info] Module: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab1pb7sda\x64\Debug\Lab1pb7sda.exe is selected because it matches selected pattern: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab1pb7sda\x64\Debug\Lab1pb7sda.exe
+[2021-03-27 19:48:40] [info] ----------------------------------------------------
+[2021-03-27 19:48:40] [info] Coverage binary generated in file: C:\Users\Serban Ionescu\AppData\Local\Temp\knyrwqoy.vjs
+[2021-03-27 19:48:40] [info] ----------------------------------------------------
+[2021-03-27 19:48:40] [error] Your program stop with error code: 1
