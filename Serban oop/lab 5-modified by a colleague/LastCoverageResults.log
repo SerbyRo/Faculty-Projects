@@ -1,0 +1,21 @@
+[2021-03-23 19:05:14] [info] Start Program:
+Path:"E:\\Documente\\Facultate\\Semestrul 2\\Laboratoare\\Programare orientata obiect\\Laboratorul 5\\Lab5_Ionescu_Serban\\Debug\\Lab5_Ionescu_Serban.exe"
+Arguments:
+Working directory: "E:\\Documente\\Facultate\\Semestrul 2\\Laboratoare\\Programare orientata obiect\\Laboratorul 5\\Lab5_Ionescu_Serban\\Lab5_Ionescu_Serban\\"
+Modules: Selected: E:\Documente\Facultate\Semestrul 2\Laboratoare\Programare orientata obiect\Laboratorul 5\Lab5_Ionescu_Serban\Debug\Lab5_Ionescu_Serban.exe Excluded: 
+Sources: Selected: E:\Documente\Facultate\Semestrul 2\Laboratoare\Programare orientata obiect\Laboratorul 5\Lab5_Ionescu_Serban\Lab5_Ionescu_Serban Excluded: ui.c 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Admin\AppData\Local\Temp\05fkcnje.dnm 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-23 19:05:14] [info] Module: E:\Documente\Facultate\Semestrul 2\Laboratoare\Programare orientata obiect\Laboratorul 5\Lab5_Ionescu_Serban\Debug\Lab5_Ionescu_Serban.exe is selected because it matches selected pattern: E:\Documente\Facultate\Semestrul 2\Laboratoare\Programare orientata obiect\Laboratorul 5\Lab5_Ionescu_Serban\Debug\Lab5_Ionescu_Serban.exe
+[2021-03-23 19:05:16] [info] ----------------------------------------------------
+[2021-03-23 19:05:16] [info] Coverage binary generated in file: C:\Users\Admin\AppData\Local\Temp\05fkcnje.dnm
+[2021-03-23 19:05:16] [info] ----------------------------------------------------
