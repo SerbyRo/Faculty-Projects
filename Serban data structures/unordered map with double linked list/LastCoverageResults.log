@@ -1,0 +1,29 @@
+[2021-04-10 17:00:43] [info] Start Program:
+Path:"C:\\Users\\MazPC\\Desktop\\Structuri de date si algoritmi\\Laborator\\Laborator 3\\Laborator_3\\Debug\\Laborator_3.exe"
+Arguments:
+Working directory: "C:\\Users\\MazPC\\Desktop\\Structuri de date si algoritmi\\Laborator\\Laborator 3\\Laborator_3\\Laborator_3\\"
+Modules: Selected: C:\Users\MazPC\Desktop\Structuri de date si algoritmi\Laborator\Laborator 3\Laborator_3\Debug\Laborator_3.exe Excluded: 
+Sources: Selected: C:\Users\MazPC\Desktop\Structuri de date si algoritmi\Laborator\Laborator 3\Laborator_3\Laborator_3 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\MazPC\AppData\Local\Temp\uzc22bky.cuw 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-10 17:00:43] [info] Module: C:\Users\MazPC\Desktop\Structuri de date si algoritmi\Laborator\Laborator 3\Laborator_3\Debug\Laborator_3.exe is selected because it matches selected pattern: C:\Users\MazPC\Desktop\Structuri de date si algoritmi\Laborator\Laborator 3\Laborator_3\Debug\Laborator_3.exe
+[2021-04-10 17:00:43] [error] 
+
+----------------------------------------------------
+*** Your application has thrown an unhandled exception. Code: 3221225477: EXCEPTION_ACCESS_VIOLATION
+----------------------------------------------------
+If your application was built with optimization enabled, make sure you use --optimized_build
+
+[2021-04-10 17:00:43] [info] ----------------------------------------------------
+[2021-04-10 17:00:43] [info] Coverage binary generated in file: C:\Users\MazPC\AppData\Local\Temp\uzc22bky.cuw
+[2021-04-10 17:00:43] [info] ----------------------------------------------------
+[2021-04-10 17:00:43] [error] Your program stop with error code: -1073741819
