@@ -1,0 +1,21 @@
+[2021-04-27 18:10:09] [info] Start Program:
+Path:"C:\\Users\\Serban Ionescu\\Desktop\\Serban oop\\Lab8-9_2\\Debug\\Lab8-9_2.exe"
+Arguments:
+Working directory: "C:\\Users\\Serban Ionescu\\Desktop\\Serban oop\\Lab8-9_2\\Lab8-9_2\\"
+Modules: Selected: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab8-9_2\Debug\Lab8-9_2.exe Excluded: 
+Sources: Selected: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab8-9_2\Lab8-9_2 Excluded: main UiMasina ManageMasini 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Serban Ionescu\AppData\Local\Temp\e0rfdz3p.wc1 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-27 18:10:09] [info] Module: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab8-9_2\Debug\Lab8-9_2.exe is selected because it matches selected pattern: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab8-9_2\Debug\Lab8-9_2.exe
+[2021-04-27 18:10:09] [info] ----------------------------------------------------
+[2021-04-27 18:10:09] [info] Coverage binary generated in file: C:\Users\Serban Ionescu\AppData\Local\Temp\e0rfdz3p.wc1
+[2021-04-27 18:10:09] [info] ----------------------------------------------------
