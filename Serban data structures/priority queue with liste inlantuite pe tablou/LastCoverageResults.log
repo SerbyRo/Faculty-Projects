@@ -1,0 +1,24 @@
+[2021-04-11 10:02:36] [info] Start Program:
+Path:"C:\\Users\\Serban Ionescu\\Desktop\\Serban structuri de date si algoritmi\\Lab4pb25\\Debug\\Lab4pb25.exe"
+Arguments:
+Working directory: "C:\\Users\\Serban Ionescu\\Desktop\\Serban structuri de date si algoritmi\\Lab4pb25\\Lab4pb25\\"
+Modules: Selected: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab4pb25\Debug\Lab4pb25.exe Excluded: 
+Sources: Selected: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab4pb25\Lab4pb25 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Serban Ionescu\AppData\Local\Temp\evjfbz3u.kei 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-11 10:02:36] [info] Module: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab4pb25\Debug\Lab4pb25.exe is selected because it matches selected pattern: C:\Users\Serban Ionescu\Desktop\Serban structuri de date si algoritmi\Lab4pb25\Debug\Lab4pb25.exe
+[2021-04-11 10:02:36] [warning] ----------------------------------------------------
+[2021-04-11 10:02:36] [warning] It seems there is an assertion failure or you call DebugBreak() in your program.
+[2021-04-11 10:02:36] [warning] ----------------------------------------------------
+[2021-04-11 10:02:36] [warning] ----------------------------------------------------
+[2021-04-11 10:02:36] [warning] It seems there is an assertion failure or you call DebugBreak() in your program.
+[2021-04-11 10:02:36] [warning] ----------------------------------------------------
