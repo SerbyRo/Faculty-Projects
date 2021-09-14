@@ -1,0 +1,21 @@
+[2021-04-06 18:26:17] [info] Start Program:
+Path:"C:\\Users\\Serban Ionescu\\Desktop\\Serban oop\\Lab6-7-template\\Debug\\Lab6-7-template.exe"
+Arguments:
+Working directory: "C:\\Users\\Serban Ionescu\\Desktop\\Serban oop\\Lab6-7-template\\Lab6-7-template\\"
+Modules: Selected: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab6-7-template\Debug\Lab6-7-template.exe Excluded: 
+Sources: Selected: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab6-7-template\Lab6-7-template Excluded: UiMasina.cpp main.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Serban Ionescu\AppData\Local\Temp\3osqimpt.e5e 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-06 18:26:17] [info] Module: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab6-7-template\Debug\Lab6-7-template.exe is selected because it matches selected pattern: C:\Users\Serban Ionescu\Desktop\Serban oop\Lab6-7-template\Debug\Lab6-7-template.exe
+[2021-04-06 18:26:18] [info] ----------------------------------------------------
+[2021-04-06 18:26:18] [info] Coverage binary generated in file: C:\Users\Serban Ionescu\AppData\Local\Temp\3osqimpt.e5e
+[2021-04-06 18:26:18] [info] ----------------------------------------------------
